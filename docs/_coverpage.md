@@ -3,4 +3,4 @@
 [**知识库**](https://mzbswh.github.io/knowledge/)
 [**Blog**](https://mzbswh.github.io/blog/)
 <br>
-[**开启探索之旅**](README.md)
+<!-- [**开启探索之旅**](README.md) -->

@@ -1,5 +1,3 @@
-- [***主页***](https://mzbswh.github.io/)
-
 - [***知识库***](https://mzbswh.github.io/knowledge/)
 
 - [***Blog***](https://mzbswh.github.io/blog/)
